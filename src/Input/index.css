@@ -1,0 +1,19 @@
+.Input {
+    height: 55px;
+    width: 70%;
+    border-radius: 10px;
+    border-color: #78B6FF;
+    margin-left: 50px;
+}
+
+.InputWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.InputName{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-left: 70px;
+}

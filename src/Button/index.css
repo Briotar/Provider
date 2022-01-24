@@ -1,0 +1,53 @@
+.Button {
+    background-color: #CAA0FF;
+    border: 0;
+    border-radius: 10px;
+    height: 55px;
+    width: 250px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.Button:hover {
+    background-color: #ac88db;
+}
+
+.Button:active {
+    background-color: #9675be;
+}
+
+.Button_type_action {
+    background-color: #FD9D9D;
+    border: 0;
+    border-radius: 10px;
+    height: 55px;
+    width: 200px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.Button_type_action:hover {
+    background-color: #e18c8c;
+}
+
+.Button_type_action:active {
+    background-color: #d08282;
+}
+
+.Button_type_change {
+    background-color: #B8CDF8;
+    border: 0;
+    border-radius: 10px;
+    height: 55px;
+    width: 200px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.Button_type_change:hover {
+    background-color: #a9bce3;
+}
+
+.Button_type_change:active {
+    background-color: #96a7cb;
+}
